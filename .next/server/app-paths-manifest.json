@@ -1,3 +1,8 @@
 {
-  "/page": "app/page.js"
+  "/auth/callback/page": "app/auth/callback/page.js",
+  "/page": "app/page.js",
+  "/applications/page": "app/applications/page.js",
+  "/all-applications/page": "app/all-applications/page.js",
+  "/login/page": "app/login/page.js",
+  "/settings/page": "app/settings/page.js"
 }
